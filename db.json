@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Néfi Fernandes",
+      "birth": "2021-06-04",
+      "gender": "male",
+      "email": "nefifernandes14@yahoo.com.br",
+      "cpf": "093.732.454-06",
+      "start": "2021-01",
+      "team": "mobile",
+      "id": 1
+    }
+  ]
+}
